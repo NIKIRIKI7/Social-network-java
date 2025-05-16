@@ -58,4 +58,4 @@ mvn clean javafx:run
 - Java 24
 - JavaFX - GUI фреймворк
 - EBean ORM - Объектно-реляционное отображение
-- PostgreSQL - Реляционная СУБД 
+- PostgreSQL - Реляционная СУБД (socialnetwork)
